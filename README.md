@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Python, C++,C**
 
-- 📫 How to reach me **harsharan.gill.2002@gmail.com**
+- 📫 You can contact me on **harsharan.gill.2002@gmail.com**
 
-- ⚡ Fun fact **Googling is my thing ;)**
+- ⚡ **Googling is my thing ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
