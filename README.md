@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharan0212&label=Profile%20views&color=0e75b6&style=flat" alt="harsharan0212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsharan0212" alt="harsharan0212" /></a> </p>
-
 - 🌱 I’m currently learning **R Programming, EDA, Data visualization**
 
 - 💬 Ask me about **Python, C++,C**
