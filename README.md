@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharan0212&label=Profile%20views&color=0e75b6&style=flat" alt="harsharan0212" /> </p>
 
-- 🌱 I’m currently learning **R Programming, EDA, Data visualization**
+- 🌱 I’m currently learning **Machine Learing**
 
-- 💬 Ask me about **Python, C++,C**
+- 💬 Ask me about **Python, C++,C,R Programming, Topsils**
 
 - 📫 You can contact me on **harsharan.gill.2002@gmail.com**
 
