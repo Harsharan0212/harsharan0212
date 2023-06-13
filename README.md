@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learing**
 
-- 💬 Ask me about **Python, C++,C,R Programming, Topsils**
+- 💬 Ask me about **Python, C++,C,R Programming, Topsis**
 
 - 📫 You can contact me on **harsharan.gill.2002@gmail.com**
 
